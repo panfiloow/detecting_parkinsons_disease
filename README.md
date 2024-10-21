@@ -15,9 +15,15 @@ The goal of this project is to develop a machine learning model to predict early
 
 /detectingparkinsonsdisease
 │
+
 ├─── data/
+
 │ ├─── parkinsons.data # # Dataset for model training
+
 │
+
 ├──── detectingparkinsonsdisease.ipynb # Main code pad
+
 │
+
 └─── README.md # Project documentation

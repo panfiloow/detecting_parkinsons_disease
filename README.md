@@ -12,7 +12,9 @@ The goal of this project is to develop a machine learning model to predict early
 - **Jupyter Notebook**: A development environment for writing and testing code.
 
 ## Project structure
-data/parkinsons.data # # Dataset for model training
+data/parkinsons.data #  Dataset for model training
+
+data/parkinsons.names # Dataset description
 
 detectingparkinsonsdisease.ipynb # Main code pad
 
